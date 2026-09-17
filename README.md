@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sohit Kumar
 
-<!--
-**sohitkumar-tech/sohitkumar-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java & Spring Boot Developer
 
-Here are some ideas to get you started:
+I am an MCA graduate focused on backend development and building practical web applications using Java, Spring Boot, PostgreSQL, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Working on Java and Spring Boot based applications
+- Building REST APIs and database-driven systems
+- Interested in Backend Development and Software Engineering
+- Continuously improving my development and problem-solving skills
+
+## Tech Stack
+
+**Languages:** Java, SQL  
+**Backend:** Spring Boot, REST APIs  
+**Database:** PostgreSQL  
+**Build Tools:** Maven  
+**Tools:** Git, GitHub, Docker, VS Code  
+**Frontend:** HTML, CSS, JavaScript, React
+
+## Featured Project
+
+### Nexora Orbit — Student Management System
+
+A Spring Boot and PostgreSQL based student management application designed to manage student-related workflows through a structured web application.
+
+**Technologies:** Java, Spring Boot, PostgreSQL, REST APIs, Maven
+
+## Currently Learning
+
+- Advanced Spring Boot
+- Backend Architecture
+- API Security
+- Docker and Deployment
+- Clean Code Practices
+
+## Connect With Me
+
+**LinkedIn:** [Sohit Kumar](https://www.linkedin.com/in/sohit-kumar-b732b826a)
