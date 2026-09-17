@@ -22,7 +22,7 @@ I am an MCA graduate focused on backend development and building practical web a
 
 ## Featured Project
 
-### Nexora Orbit — Student Management System
+### [Nexora Orbit — Student Management System](https://github.com/sohitkumar-tech/student-management-system)
 
 A Spring Boot and PostgreSQL based student management application designed to manage student-related workflows through a structured web application.
 
